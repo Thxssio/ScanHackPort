@@ -5,6 +5,10 @@
 
 ***ScanPortNAT***
 
+- [x] Ubuntu
+
+#
+
 
 `0 até 1023` - São as consideradas “portas conhecidas”. Portas nesse intervalo são fornecidas apenas para serviços estabelecidos e grandes empresas ou centros de pesquisa de confiança.
 
