@@ -30,7 +30,7 @@ try:
         socket.setdefaulttimeout(1)
         result = s.connect_ex((target,port))
         if result ==0:
-            print("Port {} is open | Porta {} está aberta".format(port))
+            print("Port {} is open".format(port))
         s.close()
          
 except KeyboardInterrupt:
