@@ -12,6 +12,7 @@
 
 `49152 até 65535` - É o intervalo que engloba as portas dinâmicas e as portas privadas. Portas nesse intervalo podem ser usadas por praticamente qualquer um e, portanto, são as com maior probabilidade de haver vulnerabilidade.
 
+#
 
 Instale os requerimentos
 
@@ -19,6 +20,7 @@ Instale os requerimentos
 pip install -r requirements.txt
 ```
 
+#
 Executavel
 
 ```
