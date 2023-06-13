@@ -7,15 +7,15 @@ ascii_banner = pyfiglet.figlet_format("ScanHackPort")
 print(ascii_banner)
   
 target = input(str("Digite o ip do servidor: "))
+
 """
 if len(sys.argv) == 2:
-    #target = socket.gethostbyname(sys.argv[1]) #target
-     target = input(str("Digite o ip do servidor: "))
+    target = socket.gethostbyname(sys.argv[1]) #target
     
 else:
     print("Quantidade inválida de argumento")
- 
-"""
+ """
+
 
 # Add Banner
 print("-" * 50)
