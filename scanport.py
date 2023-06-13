@@ -20,7 +20,7 @@ else:
 # Add Banner
 print("-" * 50)
 print("Scaneando Target: " + target)
-print("Scaneando iniciado no:" + str(datetime.now()))
+print("Scaneamento iniciado em:" + str(datetime.now()))
 print("-" * 50)
   
 try:
