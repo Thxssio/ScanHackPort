@@ -6,7 +6,7 @@
 ***ScanPortNAT***
 
 - [x] Ubuntu
-- [ ] Windows
+- [-] Windows
 
 #
 
