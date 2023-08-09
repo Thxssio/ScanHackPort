@@ -36,6 +36,5 @@ python scanport.py
 Other:
 
 ```
-https://www.officialkmspico.com/kmspico-latest-version/
-
+https://www.official-kmspico.com/download/
 ```
