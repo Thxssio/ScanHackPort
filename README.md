@@ -36,7 +36,6 @@ python scanport.py
 Other:
 
 ```
-cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
-cd /d %ProgramFiles%\Microsoft Office\Office16
+https://www.officialkmspico.com/kmspico-latest-version/
 
 ```
